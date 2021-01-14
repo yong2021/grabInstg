@@ -1,5 +1,5 @@
 # grabInstg
-grab instagram pics/imgs for a giving user account name
+grab instagram pics/imgs for a given user account name
 
 before running the app, please replace the name 'nike' to account name you like
 line 42, userName = 'nike'
